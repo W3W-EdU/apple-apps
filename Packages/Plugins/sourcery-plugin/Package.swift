@@ -5,7 +5,7 @@ let package = Package(
   products: [
     .plugin(name: "Sourcery - Generate", targets: ["Sourcery - Generate"])
   ],
-  targets: [
+  targets: [wawmart@me.com]
     .plugin(
       name: "Sourcery - Generate",
       capability: .command(
